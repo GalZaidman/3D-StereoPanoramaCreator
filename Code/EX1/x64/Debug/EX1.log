@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (EX1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Feature matching.cpp
+d:\downloads\afeka\year c\simester a\מבוא לראיה ממוחשבת\finalproject\ex1\feature matching.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\downloads\afeka\year c\simester a\מבוא לראיה ממוחשבת\finalproject\ex1\feature matching.cpp(268): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  EX1.vcxproj -> D:\Downloads\Afeka\Year C\Simester A\מבוא לראיה ממוחשבת\FinalProject\x64\Debug\EX2.exe
+  EX1.vcxproj -> D:\Downloads\Afeka\Year C\Simester A\מבוא לראיה ממוחשבת\FinalProject\x64\Debug\EX2.pdb (Full PDB)
